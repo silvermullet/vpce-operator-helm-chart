@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  vpce-operator:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-28T08:52:06.771151-08:00"
+    description: A Helm chart for Kubernetes vpce-operator
+    digest: 504351cd9c069c794e137a95a587629999a1ea4d02dc867af06461ec98836b5c
+    name: vpce-operator
+    urls:
+    - https://silvermullet.github.io/vpce-operator-helm-chart/vpce-operator-0.1.5.tgz
+    version: 0.1.5
+generated: "2019-11-28T08:52:06.770455-08:00"
